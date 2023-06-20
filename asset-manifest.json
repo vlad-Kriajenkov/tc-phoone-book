@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tc-phoone-book/static/css/main.567c72d0.css",
+    "main.js": "/tc-phoone-book/static/js/main.37e776bd.js",
+    "static/js/787.3bc9022b.chunk.js": "/tc-phoone-book/static/js/787.3bc9022b.chunk.js",
+    "index.html": "/tc-phoone-book/index.html",
+    "main.567c72d0.css.map": "/tc-phoone-book/static/css/main.567c72d0.css.map",
+    "main.37e776bd.js.map": "/tc-phoone-book/static/js/main.37e776bd.js.map",
+    "787.3bc9022b.chunk.js.map": "/tc-phoone-book/static/js/787.3bc9022b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.567c72d0.css",
+    "static/js/main.37e776bd.js"
+  ]
+}
