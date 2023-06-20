@@ -1,7 +1,7 @@
-import styled from "@emotion/styled";
+import styled from '@emotion/styled';
 import { TextField, Button } from '@mui/material';
 export const ContainerPhoneBook = styled.div`
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-style: normal;
   height: fit-content;
   width: 400px;
@@ -11,7 +11,6 @@ export const ContainerPhoneBook = styled.div`
   background: #ffffff;
   box-shadow: 0px 1px 4px rgba(126, 147, 255, 0.2);
   border-radius: 6px;
-  
 `;
 export const TitlePhoneBook = styled.h2`
   font-weight: 600;
@@ -44,6 +43,4 @@ export const Input = styled(TextField)`
   margin-bottom: 10px;
 `;
 
-export const ButtonAdd = styled(Button)`
- 
-`;
+export const ButtonAdd = styled(Button)``;
