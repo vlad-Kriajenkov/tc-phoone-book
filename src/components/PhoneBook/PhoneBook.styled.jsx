@@ -3,8 +3,8 @@ import { TextField, Button } from '@mui/material';
 export const ContainerPhoneBook = styled.div`
   font-family: "Roboto";
   font-style: normal;
-
-  width: 288px;
+  height: fit-content;
+  width: 400px;
   padding: 23px;
   margin: 20px;
 
